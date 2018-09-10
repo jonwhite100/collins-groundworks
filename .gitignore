@@ -11,5 +11,24 @@ wp-config.php
 *[Tt]humbs.db
 *.Trashes
 
+# underscore and child
+wp-content/themes/understrap/.sass-cache
+wp-content/themes/understrap/bower_components
+wp-content/themes/understrap/node_modules
+wp-content/themes/understrap/understrap.zip
+wp-content/themes/understrap/dist
+wp-content/themes/understrap/dist-product
+wp-content/themes/understrap/npm-debug.log
+#/vendor/
+wp-content/themes/understrap/.DS_Store
+wp-content/themes/understrap/Thumbs.db
+wp-content/themes/understrap/.svn
+wp-content/themes/understrap/.cvs
+wp-content/themes/understrap/*.bak
+wp-content/themes/understrap/*.swp
+wp-content/themes/understrap/.idea/
+
+wp-content/themes/understrap-child/node_modules
+
 # Include these files in previously blocked directories
 !wp-content/uploads/.htaccess
